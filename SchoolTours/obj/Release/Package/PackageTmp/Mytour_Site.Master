@@ -1,0 +1,109 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Mytour_Site.master.cs" Inherits="SchoolTours.Mytour_Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> </title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="Content/style.css" rel="stylesheet" />
+    <script src="../Scripts/CustomJS/Utility.js"></script>
+</head>
+<body data-gr-c-s-loaded="true">
+    <div class="d-flex flex-column flex-md-row align-items-center p-2 px-md-4 bg-blue border-bottom shadow-sm">
+        <a class="navbar-brand d-none d-lg-block mr-md-auto p-0" href="#">
+            <%--<img src="Content/images/img_min_logo.png" alt="mimizer" width="170">--%>
+            <div id="div_heading" runat="server">
+                <h2 class="text-white">
+                    <asp:Label ID="lbl_heading" runat="server" Text="MyTour"></asp:Label></h2>
+            </div>
+        </a>
+        <a class="nav-link text-center" href="javascript:void(0);" data-toggle="dropdown">
+            <h6 class="text-white">
+                <asp:Label ID="div_entity_nm" runat="server" Text="Lee Derek - Fallbrook High School Marching Warriors"></asp:Label>
+            </h6>
+        </a>
+    </div>
+
+    <form runat="server">
+        <div class="container-fluid">
+            <section class="main py-3">
+                <div class="row mx-0 align-items-stretch h-100">
+                    <div class="col-md-3">
+                        <div class="card bg-white h-100 mb-0">
+                            <div class="card-body d-flex flex-column justify-content-between">
+                                <div class="w-100 text-center">
+                                    <%--border-dahsed--%>
+                                    <h1 class="logo p-3 txt-light-blue font-weight-bold ">
+                                        <%--<img src="images/historic_productions.png" alt="" class="img-fluid">--%>
+                                        <asp:Image ID="div_div_img" runat="server" alt="" class="img-fluid"  />
+                                    </h1>
+                                    <div id="div_evt_nm" runat="server">
+                                        <a href="javascript:void(0);" class="txt-light-blue font-weight-bold d-block">Gold Star Families</a>
+                                        <a href="javascript:void(0);" class="txt-light-blue font-weight-bold d-block">Memorial Day Parade</a>
+                                        <p class="d-block txt-light-blue mb-0">05/22/2020 - 05/25/2020</p>
+                                    </div>
+                                </div>
+                                <div class="w-100 text-center">
+                                    <h1 class="logo p-3 txt-light-blue font-weight-bold display-2">
+									<asp:Label ID="div_countdown" runat="server" Text="98"></asp:Label> 
+									<a href="javascript:void(0);" class="txt-light-blue font-weight-bold d-block fs-14">Day's Until Tour</a>
+									</h1>
+                                   
+                                </div>
+                                <div class="w-100 text-center" style="display:none;">
+                                    <a href="javascript:void(0);" class="txt-light-blue font-weight-bold d-block fs-14 mb-2">Did you know...?</a>
+                                    <div class="w-100 border-dahsed p-3 text-dark" id="div_evt_memo" runat="server">
+                                        Our Guest Conductor will be Johan Flippo.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </section>
+            <section class="footer">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="bg-blue p-2 d-flex justify-content-end div_footer align-items-center">
+                            <a href="javascript:void(0);" class="text-uppercase text-white font-weight-bold ml-5 mr-3">
+                                <img class="img-fluid" src="../Content/images/bds-logo.png" alt="bds" width="90" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </form>
+</body>
+</html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.12/summernote.css" rel="stylesheet">
+<script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.12/summernote.js"></script>
+<script>
+    $(document).ready(function () {
+        $('.summernote').summernote({
+            height: 200,
+            focus: true
+        });
+
+    });
+   
+</script>

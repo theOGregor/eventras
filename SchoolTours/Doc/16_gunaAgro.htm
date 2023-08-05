@@ -1,0 +1,343 @@
+
+
+
+<!doctype html>
+<html class="fixed">
+<head>
+
+    <!-- Basic -->
+    <meta charset="UTF-8">
+
+    <meta name="keywords" content="Guna Agro" />
+    <meta name="description" content="Guna Agro">
+    <meta name="author" content="okler.net">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <!-- Web Fonts  -->
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Shadows+Into+Light" rel="stylesheet" type="text/css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <!-- Vendor CSS -->
+    <link rel="stylesheet" href="/GunaAgro/assets/vendor/bootstrap/css/bootstrap.css" />
+
+    
+
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="/GunaAgro/assets/stylesheets/theme.css" />
+
+    <!-- Theme Custom CSS -->
+    <link rel="stylesheet" href="/GunaAgro/assets/stylesheets/theme-custom.css">
+
+    <!-- Head Libs -->
+    <script src="/GunaAgro/assets/vendor/modernizr/modernizr.js"></script>
+    <script src="/GunaAgro/assets/vendor/style-switcher/style.switcher.localstorage.js"></script>
+    <script type="text/javascript">
+ //<![CDATA[
+  var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
+  document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
+//]]></script>
+    <script language="JavaScript" type="text/javascript">
+  TrustLogo("https://www.positivessl.com/images/seals/positivessl_trust_seal_sm_124x32.png", "POSDV", "none");
+    </script>
+</head>
+<body class="login-page">
+    <!-- start: page -->
+    <section class="body-sign">
+        <div class="center-sign">
+            <a href="/" class="logo pull-left">
+                <img src="/GunaAgro/assets/images/logo.png" id="LoginAppLogo" height="70" alt="Porto Admin" />
+            </a>
+
+            <div class="panel panel-sign">
+                <div class="panel-title-sign mt-xl text-right">
+                    <h2 class="title text-uppercase text-weight-bold m-none"><i class="fa fa-user mr-xs"></i> Sign In</h2>
+                </div>
+                <div class="panel-body">
+                    
+                    <div class="form-group mb-lg">
+                        <label>Email</label>
+                        <div class="input-group input-group-icon">
+                            <input name="username" type="text" class="form-control input-lg checkEmail  checkrequired stripspaces" value="" id="txtUserName" tabindex="1" />
+                            <span class="input-group-addon">
+                                <span class="icon icon-lg">
+                                    <i class="fa fa-user"></i>
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="form-group mb-lg">
+                        <div class="clearfix">
+                            <label class="pull-left">Password</label>
+                            <a href="#" onclick="javascript: SetPasswordDetail();"  class="pull-right" tabindex="4">Lost Password?</a>
+                        </div>
+                        <div class="input-group input-group-icon">
+                            <input name="pwd" type="password" class="form-control input-lg checkrequired stripspaces" id="txtPassword" tabindex="2" />
+                            <span class="input-group-addon">
+                                <span class="icon icon-lg">
+                                    <i class="fa fa-lock"></i>
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-8" style="display:none;">
+                            <div class="checkbox-custom checkbox-default">
+                                <input id="chkRememberMe" name="rememberme" type="checkbox" />
+                                <label for="RememberMe">Remember Me</label>
+                            </div>
+                        </div>
+                        <div class="col-sm-12" >
+                            
+                            <a href="http://itsabacus.org/mobile/APK/guna/agro_11_june.apk" type="submit" class="btn pull-left pl-xs"><b><image src="/GunaAgro/assets/images/google-play.png" id="LoginAppLogo" height="40" alt="Porto Admin"></image></b></a>
+                            <a href="#" type="submit" class="btn btn-success" onclick="javascript: Login();" tabindex="3" style="float:right;">Sign In</a>
+                        </div>
+                    </div>
+
+                    <!--<span class="mt-lg mb-lg line-thru text-center text-uppercase">
+                        <span>or</span>
+                    </span>
+
+
+                    <p class="text-center">Don't have an account yet? <a href="pages-signup.html">Sign Up!</a></p>-->
+                    
+                </div>
+            </div>
+
+            <div id="snackbar"></div>
+            <div id="DivLoader" style="display:none;">
+                <img src="/GunaAgro/assets/images/loader.gif" style="width: 90px;height: 90px;" />
+            </div>
+        </div>
+    </section>
+    <div id="fade" class="black_overlay"></div>
+    <!-- end: page -->
+    <!-- Vendor -->
+    <script src="/GunaAgro/assets/vendor/jquery/jquery.js"></script>
+    
+
+    <!-- Theme Base, Components and Settings -->
+    
+
+    <!-- Theme Custom -->
+    
+
+    <!-- Theme Initialization Files -->
+    <script src="/GunaAgro/assets/javascripts/theme.init.js"></script>
+    <script src="/GunaAgro/Scripts/utility.js"></script>
+    <link href="/GunaAgro/Content/custom.css" rel="stylesheet" />
+    <script type="text/javascript">
+        $('#txtPassword').keypress(function (e) {
+            var key = e.which;
+            if (key == 13)  // the enter key code
+            {
+                Login();
+            }
+        });
+
+        function Login() {
+            
+            var checkvalidation = "";
+            checkvalidation += checkrequired('txtUserName');
+            checkvalidation += checkEmail('txtUserName');
+            checkvalidation += checkrequired('txtPassword');
+            if (checkvalidation != "") {
+                ShowMsgBox('snackbar', 'Please Enter valid Email and Password.', 'warningmsg', '');
+                return;
+            }
+
+            $('#DivLoader').show();
+            $('#fade').show();
+            var Ouser = {
+                Email: $('#txtUserName').val().trim(),
+                Password: $('#txtPassword').val().trim(),
+            }
+            $.ajax({
+                url: HOST + "/Api/AccountAPI/CheckUserValid",
+                cache: false,
+                type: 'POST',
+                contentType: 'application/json; charset=utf-8',
+                data: JSON.stringify(Ouser),
+            })
+             .done(function (response) {
+                 $('#DivLoader').hide();
+                 $('#fade').hide();
+                 if (response != null) {
+                     console.log(response);
+                     try {
+                         if (response == "Ok") {
+                             GetLoginDetail(Ouser);
+                         }
+                         else {
+                             ShowMsgBox('snackbar', response, 'warningmsg', '');
+
+                         }
+                     } catch (error) {
+                         ShowMsgBox('snackbar', error, 'warningmsg', '');
+                     }
+                 } else {
+                     ShowMsgBox('snackbar', 'Not Valid User.', 'warningmsg', '');
+                 }
+             })
+             .fail(
+                function (xhr, textStatus, error) {
+                    ShowMsgBox('snackbar', error, 'warningmsg', '');
+                    $('#DivLoader').hide();
+                    $('#fade').hide();
+                    console.log(error);
+                });
+
+        }
+        function GetLoginDetail(Ouser) {
+            $.ajax({
+                url: HOST + "/Api/AccountAPI/LoginDetail",
+                cache: false,
+                type: 'POST',
+                contentType: 'application/json; charset=utf-8',
+                data: JSON.stringify(Ouser),
+            })
+            .done(function (response) {
+                $('#DivLoader').hide();
+                $('#fade').hide();
+                if (response != null) {
+                    
+                    console.log(response);
+                    try {
+                        if (response.OUserRole.UserRoleId == 1) {
+                            localStorage.LoginDetail = JSON.stringify(response);
+                            //man sing
+
+                            var strToken = response.accesstoken;
+
+                            localStorage.SecureToken = strToken + '~' + response.OUser.CompanyId + '~' + "Users";
+
+
+
+                            localStorage.UserRoleId = response.OUserRole.UserRoleId;
+                            localStorage.UserLoginImag = response.OUser.UserImage;
+                            localStorage.UserLoginName = response.OUser.FirstName;
+                            localStorage.UserDetail = JSON.stringify(response.OUser);
+                            //retriveSegment = $.parseJSON(localStorage.ArrSegment);// json.stringify
+                            localStorage.CompanyId = response.OUser.CompanyId;
+                            localStorage.UserId = response.OUser.UserId;
+                            $.ajax({
+                                url: HOST + "/API/SuperAdminAPI/UserPermisssionDetail?UserId=" + localStorage.UserId,
+                                cache: false,
+                                type: 'GET',
+                                contentType: 'application/json; charset=utf-8',
+                            })
+                            .done(function (response) {
+                                localStorage.CompanyAccess = response.CompanyAccess;
+                                localStorage.PackageAccess = response.PackageAccess;
+                                localStorage.UserAccess = response.UserAccess;
+                                if (localStorage.CompanyAccess == "true") { setTimeout('delayer(\'' + HOST + '/SuperAdmin/CompanyList' + '\')', 1000); }
+                                else if (localStorage.PackageAccess == "true") { setTimeout('delayer(\'' + HOST + '/SuperAdmin/PackageList' + '\')', 1000); }
+                                else { setTimeout('delayer(\'' + HOST + '/SuperAdmin/UserList' + '\')', 1000); }
+                            });
+                            //setTimeout('delayer(\'' + HOST + '/SuperAdmin/CompanyList' + '\')', 1000);
+                        }
+                        else {
+                            try {
+                                localStorage.LoginDetail = JSON.stringify(response);
+                            } catch (error) {
+                                localStorage.LoginDetail = response;
+                            }
+
+                            var strToken = response.accesstoken;
+                            localStorage.SecureToken = strToken + '~' + response.OUser.CompanyId + '~' + "Users";
+
+
+                            localStorage.UserLoginImag = response.OUser.UserImage;
+                            localStorage.UserLoginName = response.OUser.FirstName;
+                            localStorage.UserDetail = JSON.stringify(localStorage.LoginDetail.OUser);
+                            //retriveSegment = $.parseJSON(localStorage.ArrSegment);// json.stringify
+                            localStorage.CompanyDetail = JSON.stringify(response.OCompany);
+                            localStorage.CompanyId = response.OUser.CompanyId;
+                            localStorage.UserId = response.OUser.UserId;
+                            //if (response.OUser.UserRoleId == 2)
+                            setTimeout('delayer(\'' + HOST + '/Setting/CompanyInfo' + '\')', 1000);
+                            //else if (response.OUser.UserRoleId != 2 && response.OPermissionDetail.length == 0)
+                            //    setTimeout('delayer(\'' + HOST + '/Users/UserProfile' + '\')', 1000);
+                            //else if (response.OUser.UserRoleId != 2 && response.OPermissionDetail.length > 0)
+                            //    setTimeout('delayer(\'' + HOST + '/Users/UserProfile' + '\')', 1000);
+                        }
+                    } catch (error) {
+                        ShowMsgBox('snackbar', error, 'warningmsg', '');
+                    }
+                } else {
+                    ShowMsgBox('snackbar', 'Not Valid User.', 'warningmsg', '');
+                }
+            })
+            .fail(
+               function (xhr, textStatus, error) {
+                   ShowMsgBox('snackbar', error, 'warningmsg', '');
+                   $('#DivLoader').hide();
+                   $('#fade').hide();
+                   console.log(error);
+               });
+        }
+        function SetPasswordDetail(Email) {
+            var checkvalidation = "";
+            checkvalidation += checkEmail('txtUserName');
+            if (checkvalidation != "") return;
+            var Email = document.getElementById("txtUserName");
+            $('#DivLoader').show();
+            if (Email.value == '') {
+                $('#DivLoader').hide();
+                ShowMsgBox('snackbar', 'Please enter Email', 'warningmsg', '');
+            }
+            else {
+                $.ajax({
+                    url: HOST + "/Api/AccountAPI/SetPasswordDetail?Email=" + Email.value,
+                    cache: false,
+                    type: 'GET',
+                    //async: true,
+                    //contentType: 'application/json; charset=utf-8',
+                })
+                .done(function (data) {
+
+                    if (data == "Inactive") {
+                        $('#DivLoader').hide();
+                        ShowMsgBox('snackbar', 'User is Inactive. Contact support', 'warningmsg', '');
+                    }
+                    else if (data == "Deleted") {
+                        $('#DivLoader').hide();
+                        ShowMsgBox('snackbar', 'User is Deleted. Contact support', 'warningmsg', '');
+                    }
+                    else if (data == "Fail") {
+
+                        $('#DivLoader').hide();
+                        ShowMsgBox('snackbar', 'The email address that you have entered does not match any account', 'warningmsg', '');
+
+                    }
+                    else if (data == "Company is not there") {
+                        $('#DivLoader').hide();
+                        ShowMsgBox('snackbar', 'Company is not there', 'warningmsg', '');
+                    }
+                    else if (data == "Company Inactive") {
+                        $('#DivLoader').hide();
+                        ShowMsgBox('snackbar', 'Account is Inactive. Contact support', 'warningmsg', '');
+                    }
+                    else if (data == "Company Deleted") {
+                        $('#DivLoader').hide();
+                        ShowMsgBox('snackbar', 'Account is Deleted. Contact support', 'warningmsg', '');
+                    }
+                    else {
+                        $('#DivLoader').hide();
+                        ShowMsgBox('snackbar', 'Email is sent to your Email ID', 'warningmsg', '');
+                    }
+
+                });
+            }
+        }
+
+    </script>
+    <script>
+        $('#LoginAppLogo').click(function () {
+            return false;
+        })
+    </script>
+</body>
+</html>

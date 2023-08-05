@@ -1,0 +1,469 @@
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\ApplicationInsights.config
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\csc.exe
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\System.Collections.Immutable.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\vbc.exe
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\VBCSCompiler.exe
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\roslyn\VBCSCompiler.exe.config
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\SchoolTours.dll.config
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\SchoolTours.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\SchoolTours.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Antlr3.Runtime.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\AspNet.ScriptManager.jQuery.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\EntityFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\EntityFramework.SqlServer.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.DependencyCollector.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.Web.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.WindowsServer.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.ApplicationInsights.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Google.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Web.Infrastructure.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Newtonsoft.Json.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Owin.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\SchoolToursBusiness.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\SchoolToursData.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\System.Web.Optimization.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\System.Web.Providers.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\WebGrease.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\SchoolToursFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Practices.ObjectBuilder.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.DependencyCollector.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.Web.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AI.WindowsServer.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.ApplicationInsights.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\SchoolToursBusiness.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\SchoolToursData.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\System.Web.Optimization.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Antlr3.Runtime.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Newtonsoft.Json.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\EntityFramework.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\EntityFramework.SqlServer.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\System.Web.Providers.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Google.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\bin\SchoolToursFramework.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\obj\Debug\SchoolTours.csprojResolveAssemblyReference.cache
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\obj\Debug\SchoolTours.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolTours\obj\Debug\SchoolTours.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\ApplicationInsights.config
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\csc.exe
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\System.Collections.Immutable.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\vbc.exe
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\VBCSCompiler.exe
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\roslyn\VBCSCompiler.exe.config
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\SchoolTours.dll.config
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\SchoolTours.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\SchoolTours.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Antlr3.Runtime.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\AspNet.ScriptManager.jQuery.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\EntityFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\EntityFramework.SqlServer.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.DependencyCollector.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.Web.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.WindowsServer.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.ApplicationInsights.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Google.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Web.Infrastructure.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Newtonsoft.Json.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Owin.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\SchoolToursBusiness.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\SchoolToursData.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\System.Web.Optimization.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\System.Web.Providers.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\WebGrease.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\SchoolToursFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Practices.ObjectBuilder.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.DependencyCollector.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.Web.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AI.WindowsServer.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.ApplicationInsights.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\SchoolToursBusiness.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\SchoolToursData.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\System.Web.Optimization.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Antlr3.Runtime.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Newtonsoft.Json.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\EntityFramework.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\EntityFramework.SqlServer.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\System.Web.Providers.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Google.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\bin\SchoolToursFramework.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\obj\Debug\SchoolTours.csprojResolveAssemblyReference.cache
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\obj\Debug\SchoolTours.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolTours\obj\Debug\SchoolTours.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\ApplicationInsights.config
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\csc.exe
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\System.Collections.Immutable.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\System.Reflection.Metadata.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\vbc.exe
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\VBCSCompiler.exe
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\roslyn\VBCSCompiler.exe.config
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SchoolTours.dll.config
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SchoolTours.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SchoolTours.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\BouncyCastle.Crypto.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DKIM.Net.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.Core.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.Core.UI.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.InfoCard.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.InfoCard.UI.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.Common.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.Client.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.Provider.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.UI.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenIdOAuth.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\EASendMail.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Auth.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Auth.PlatformServices.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Books.v1.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Core.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.PlatformServices.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\MailKit.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\MimeKit.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\nunit.framework.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SendGrid.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SendGrid.SmtpApi.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\StarkbankEcdsa.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\System.Buffers.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\System.Net.Http.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\System.Net.Http.WebRequest.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Universal.Google.Authentication.OAuth2.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Org.Mentalis.Security.Cryptography.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Mono.Math.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\BouncyCastle.Crypto.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.Core.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.Core.UI.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.InfoCard.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.InfoCard.UI.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.Common.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.Client.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.Provider.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.UI.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenIdOAuth.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Auth.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Auth.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Books.v1.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Books.v1.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Core.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Google.Apis.Core.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\MailKit.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\MailKit.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\MimeKit.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\MimeKit.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\nunit.framework.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SendGrid.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SendGrid.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SendGrid.SmtpApi.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\System.Buffers.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\System.Net.Http.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\System.Net.Http.WebRequest.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Org.Mentalis.Security.Cryptography.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Mono.Math.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\obj\Debug\SchoolTours.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\obj\Debug\SchoolTours.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\obj\Debug\SchoolTours.csproj.ResolveComReference.cache
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\IronXL.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\IronXL.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\FastMember.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SchoolToursFramework.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\ClosedXML.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\ClosedXML.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\DocumentFormat.OpenXml.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\ExcelNumberFormat.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\itextsharp.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.AI.DependencyCollector.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.AI.Web.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.AI.WindowsServer.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.ApplicationInsights.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Newtonsoft.Json.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SchoolToursBusiness.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SchoolToursData.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\System.Web.Optimization.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Antlr3.Runtime.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\EntityFramework.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\EntityFramework.SqlServer.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\System.Web.Providers.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.Google.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\bin\SchoolToursFramework.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolTours\obj\Debug\SchoolTours.csprojResolveAssemblyReference.cache
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\ApplicationInsights.config
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\csc.exe
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\vbc.exe
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SchoolTours.dll.config
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SchoolTours.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SchoolTours.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\BouncyCastle.Crypto.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DKIM.Net.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.Core.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.Core.UI.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.InfoCard.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\EASendMail.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Auth.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Books.v1.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Core.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.PlatformServices.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\IronXL.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\MailKit.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\MimeKit.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\nunit.framework.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SendGrid.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SendGrid.SmtpApi.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\StarkbankEcdsa.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\System.Buffers.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\System.Net.Http.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\System.Net.Http.WebRequest.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Universal.Google.Authentication.OAuth2.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\FastMember.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SchoolToursFramework.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Mono.Math.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\BouncyCastle.Crypto.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\ClosedXML.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\ClosedXML.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DocumentFormat.OpenXml.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.Core.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.Core.UI.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.InfoCard.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\ExcelNumberFormat.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Auth.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Auth.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Books.v1.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Books.v1.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Core.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Google.Apis.Core.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\IronXL.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\itextsharp.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\MailKit.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\MailKit.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.AI.Web.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\MimeKit.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\MimeKit.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Newtonsoft.Json.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\nunit.framework.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SchoolToursBusiness.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SchoolToursData.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SendGrid.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SendGrid.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SendGrid.SmtpApi.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\System.Buffers.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\System.Net.Http.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\System.Net.Http.WebRequest.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\System.Web.Optimization.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Antlr3.Runtime.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\EntityFramework.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\EntityFramework.SqlServer.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\System.Web.Providers.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\SchoolToursFramework.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\bin\Mono.Math.xml
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\obj\Debug\SchoolTours.csproj.ResolveComReference.cache
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\obj\Debug\SchoolTours.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolTours\obj\Debug\SchoolTours.pdb

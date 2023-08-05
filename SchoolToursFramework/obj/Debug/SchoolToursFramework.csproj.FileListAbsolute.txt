@@ -1,0 +1,39 @@
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolToursFramework\bin\Debug\SchoolToursFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolToursFramework\bin\Debug\SchoolToursFramework.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolToursFramework\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolToursFramework\obj\Debug\SchoolToursFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\SchoolTours\SchoolToursFramework\obj\Debug\SchoolToursFramework.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\2650_School_Tours_Management_System\SchoolTours\SchoolToursFramework\bin\Debug\SchoolToursFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\2650_School_Tours_Management_System\SchoolTours\SchoolToursFramework\bin\Debug\SchoolToursFramework.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\2650_School_Tours_Management_System\SchoolTours\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\2650_School_Tours_Management_System\SchoolTours\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\2650_School_Tours_Management_System\SchoolTours\SchoolToursFramework\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\2650_School_Tours_Management_System\SchoolTours\SchoolToursFramework\obj\Debug\SchoolToursFramework.csprojResolveAssemblyReference.cache
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\2650_School_Tours_Management_System\SchoolTours\SchoolToursFramework\obj\Debug\SchoolToursFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours Management System\Source_Code\Ver-2\2650_School_Tours_Management_System\SchoolTours\SchoolToursFramework\obj\Debug\SchoolToursFramework.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolToursFramework\bin\Debug\SchoolToursFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolToursFramework\bin\Debug\SchoolToursFramework.pdb
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolToursFramework\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolToursFramework\obj\Debug\SchoolToursFramework.csprojResolveAssemblyReference.cache
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolToursFramework\obj\Debug\SchoolToursFramework.dll
+E:\Sanjay_Data\sanjay\Projects\2650_School Tours\Source_Code\Ver-2\2650_School_Tours\SchoolTours\SchoolToursFramework\obj\Debug\SchoolToursFramework.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolToursFramework\bin\Debug\SchoolToursFramework.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolToursFramework\bin\Debug\SchoolToursFramework.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolToursFramework\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolToursFramework\obj\Debug\SchoolToursFramework.dll
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolToursFramework\obj\Debug\SchoolToursFramework.pdb
+D:\ACS-sanjay\ACS-Project\school_tours\Code\SchoolTours_v3\SchoolToursFramework\obj\Debug\SchoolToursFramework.csprojResolveAssemblyReference.cache
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolToursFramework\bin\Debug\SchoolToursFramework.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolToursFramework\bin\Debug\SchoolToursFramework.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolToursFramework\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolToursFramework\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolToursFramework\obj\Debug\SchoolToursFramework.dll
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolToursFramework\obj\Debug\SchoolToursFramework.pdb
+C:\Users\Sanjay\Documents\ACS-Sanjay\Project\SchoolTours_v3\SchoolToursFramework\obj\Debug\SchoolToursFramework.csprojResolveAssemblyReference.cache

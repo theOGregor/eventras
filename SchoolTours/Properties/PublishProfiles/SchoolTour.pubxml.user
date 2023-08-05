@@ -1,0 +1,631 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\ACS-sanjay\ACS-Project\school_tours\publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Accounting/pmt_finder.aspx">
+      <publishTime>05/14/2021 18:51:02</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="ApplicationsSettings/app_emp_div.aspx">
+      <publishTime>06/28/2021 13:29:35</publishTime>
+    </File>
+    <File Include="ApplicationsSettings/app_emp_role.aspx">
+      <publishTime>06/28/2021 13:29:40</publishTime>
+    </File>
+    <File Include="ApplicationsSettings/app_evt.aspx">
+      <publishTime>06/26/2021 13:08:46</publishTime>
+    </File>
+    <File Include="ApplicationsSettings/app_page_role.aspx">
+      <publishTime>06/26/2021 13:26:46</publishTime>
+    </File>
+    <File Include="ApplicationsSettings/app_ref.aspx">
+      <publishTime>06/26/2021 13:30:25</publishTime>
+    </File>
+    <File Include="ApplicationsSettings/app_tags.aspx">
+      <publishTime>06/26/2021 13:38:32</publishTime>
+    </File>
+    <File Include="ApplicationsSettings/bounced.aspx">
+      <publishTime>01/20/2021 17:25:35</publishTime>
+    </File>
+    <File Include="app_profile.aspx">
+      <publishTime>01/14/2021 13:18:22</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>10/12/2020 14:05:00</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>03/18/2021 20:17:32</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>10/12/2020 14:05:00</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>10/12/2020 14:05:00</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>02/22/2021 13:27:56</publishTime>
+    </File>
+    <File Include="bin/ClosedXML.dll">
+      <publishTime>10/12/2020 14:04:44</publishTime>
+    </File>
+    <File Include="bin/DKIM.Net.dll">
+      <publishTime>02/01/2021 16:21:13</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>10/12/2020 14:04:44</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>03/01/2021 17:43:09</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.UI.dll">
+      <publishTime>03/01/2021 17:43:11</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.InfoCard.dll">
+      <publishTime>03/01/2021 17:43:12</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.InfoCard.UI.dll">
+      <publishTime>03/01/2021 17:43:13</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Common.dll">
+      <publishTime>03/01/2021 17:43:14</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>03/01/2021 17:43:17</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>03/01/2021 17:43:15</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.ServiceProvider.dll">
+      <publishTime>03/01/2021 17:43:17</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.AuthorizationServer.dll">
+      <publishTime>03/01/2021 17:43:21</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.Client.dll">
+      <publishTime>03/01/2021 17:43:23</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.Client.UI.dll">
+      <publishTime>03/01/2021 17:43:24</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.ClientAuthorization.dll">
+      <publishTime>03/01/2021 17:43:20</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.dll">
+      <publishTime>03/01/2021 17:43:19</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth2.ResourceServer.dll">
+      <publishTime>03/01/2021 17:43:25</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>03/01/2021 17:43:28</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.Provider.dll">
+      <publishTime>03/01/2021 17:43:32</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.Provider.UI.dll">
+      <publishTime>03/01/2021 17:43:33</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>03/01/2021 17:43:35</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.UI.dll">
+      <publishTime>03/01/2021 17:43:37</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.UI.dll">
+      <publishTime>03/01/2021 17:43:29</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenIdInfoCard.UI.dll">
+      <publishTime>03/01/2021 17:43:38</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenIdOAuth.dll">
+      <publishTime>03/01/2021 17:43:39</publishTime>
+    </File>
+    <File Include="bin/EASendMail.dll">
+      <publishTime>02/20/2021 19:26:21</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/12/2020 14:05:52</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>10/12/2020 14:05:52</publishTime>
+    </File>
+    <File Include="bin/ExcelNumberFormat.dll">
+      <publishTime>10/12/2020 14:04:44</publishTime>
+    </File>
+    <File Include="bin/FastMember.dll">
+      <publishTime>01/19/2022 19:37:14</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.dll">
+      <publishTime>02/25/2021 12:13:43</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.PlatformServices.dll">
+      <publishTime>02/25/2021 12:13:43</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Authentication.OAuth2.dll">
+      <publishTime>04/10/2020 18:16:05</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Books.v1.dll">
+      <publishTime>02/25/2021 14:50:05</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Core.dll">
+      <publishTime>02/25/2021 11:59:37</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.dll">
+      <publishTime>02/25/2021 11:59:39</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.PlatformServices.dll">
+      <publishTime>02/25/2021 11:59:39</publishTime>
+    </File>
+    <File Include="bin/IronXL.dll">
+      <publishTime>10/11/2021 15:44:05</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>10/12/2020 14:59:58</publishTime>
+    </File>
+    <File Include="bin/itextsharp.xmlworker.dll">
+      <publishTime>10/12/2020 14:04:44</publishTime>
+    </File>
+    <File Include="bin/MailKit.dll">
+      <publishTime>02/25/2021 11:56:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>10/12/2020 14:06:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>10/12/2020 14:06:54</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>10/12/2020 14:06:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>10/12/2020 14:07:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>10/12/2020 14:07:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>10/12/2020 14:07:03</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>10/12/2020 14:05:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>10/12/2020 14:07:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>10/12/2020 14:07:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>10/12/2020 14:07:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>10/12/2020 14:07:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>10/12/2020 14:07:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/12/2020 14:07:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>10/12/2020 14:10:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>10/12/2020 14:10:17</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>10/12/2020 14:10:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>10/12/2020 14:10:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>10/12/2020 14:10:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>10/12/2020 14:10:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>10/12/2020 14:10:21</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>10/12/2020 14:10:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>10/12/2020 14:10:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll">
+      <publishTime>01/19/2022 19:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll">
+      <publishTime>01/19/2022 19:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Practices.ObjectBuilder.dll">
+      <publishTime>01/19/2022 19:37:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>10/12/2020 14:07:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>10/12/2020 14:07:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/12/2020 14:10:27</publishTime>
+    </File>
+    <File Include="bin/MimeKit.dll">
+      <publishTime>02/25/2021 11:56:35</publishTime>
+    </File>
+    <File Include="bin/Mono.Math.dll">
+      <publishTime>03/01/2021 17:43:28</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/25/2021 11:59:36</publishTime>
+    </File>
+    <File Include="bin/nunit.framework.dll">
+      <publishTime>02/01/2021 15:33:38</publishTime>
+    </File>
+    <File Include="bin/Org.Mentalis.Security.Cryptography.dll">
+      <publishTime>03/01/2021 17:43:28</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>10/12/2020 14:11:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/18/2021 20:17:39</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/18/2021 20:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/18/2021 20:17:37</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/18/2021 20:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/18/2021 20:17:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/18/2021 20:17:39</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/18/2021 20:17:39</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/18/2021 20:17:39</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/18/2021 20:17:39</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/18/2021 20:17:39</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/18/2021 20:17:39</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/18/2021 20:17:38</publishTime>
+    </File>
+    <File Include="bin/SchoolTours.dll">
+      <publishTime>01/21/2022 18:58:11</publishTime>
+    </File>
+    <File Include="bin/SchoolTours.dll.config">
+      <publishTime>10/11/2021 15:44:12</publishTime>
+    </File>
+    <File Include="bin/SchoolToursBusiness.dll">
+      <publishTime>10/06/2021 16:19:15</publishTime>
+    </File>
+    <File Include="bin/SchoolToursData.dll">
+      <publishTime>10/06/2021 16:18:13</publishTime>
+    </File>
+    <File Include="bin/SchoolToursFramework.dll">
+      <publishTime>01/19/2022 19:37:15</publishTime>
+    </File>
+    <File Include="bin/SendGrid.dll">
+      <publishTime>03/04/2021 12:08:22</publishTime>
+    </File>
+    <File Include="bin/SendGrid.SmtpApi.dll">
+      <publishTime>03/04/2021 12:12:33</publishTime>
+    </File>
+    <File Include="bin/StarkbankEcdsa.dll">
+      <publishTime>03/04/2021 12:08:18</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/22/2021 13:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>03/01/2021 17:43:06</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>03/01/2021 17:43:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>10/12/2020 14:07:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>10/12/2020 14:07:11</publishTime>
+    </File>
+    <File Include="bin/Universal.Google.Authentication.OAuth2.dll">
+      <publishTime>02/25/2021 15:09:16</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>10/12/2020 14:11:16</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>10/12/2020 14:04:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>10/12/2020 14:04:52</publishTime>
+    </File>
+    <File Include="Content/images/mimizer-2-logo.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>10/12/2020 14:04:52</publishTime>
+    </File>
+    <File Include="Content/style.css">
+      <publishTime>05/04/2021 17:23:28</publishTime>
+    </File>
+    <File Include="Dashboard.aspx">
+      <publishTime>06/28/2021 12:13:58</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Defect.aspx">
+      <publishTime>10/12/2020 14:04:44</publishTime>
+    </File>
+    <File Include="Demopage.aspx">
+      <publishTime>02/23/2021 16:37:40</publishTime>
+    </File>
+    <File Include="Demopage2.aspx">
+      <publishTime>02/23/2021 19:40:34</publishTime>
+    </File>
+    <File Include="EASend.aspx">
+      <publishTime>03/08/2021 13:06:11</publishTime>
+    </File>
+    <File Include="example.txt">
+      <publishTime>01/02/2021 16:21:14</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>10/12/2020 14:04:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/12/2020 14:04:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/12/2020 14:04:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/12/2020 14:04:56</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/12/2020 14:04:56</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="GoogleAuth.aspx">
+      <publishTime>02/26/2021 18:35:09</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="mailer.aspx">
+      <publishTime>03/17/2021 18:29:51</publishTime>
+    </File>
+    <File Include="mass_mailer.aspx">
+      <publishTime>02/05/2021 13:13:13</publishTime>
+    </File>
+    <File Include="Mytour/mytour_dashboard.aspx">
+      <publishTime>07/30/2021 15:45:42</publishTime>
+    </File>
+    <File Include="Mytour/mytour_mail.aspx">
+      <publishTime>07/30/2021 15:50:17</publishTime>
+    </File>
+    <File Include="Mytour/mytour_pax.aspx">
+      <publishTime>05/08/2021 19:37:06</publishTime>
+    </File>
+    <File Include="Mytour/mytour_pmt.aspx">
+      <publishTime>07/30/2021 16:02:55</publishTime>
+    </File>
+    <File Include="mytour_index.aspx">
+      <publishTime>06/11/2020 18:00:43</publishTime>
+    </File>
+    <File Include="Mytour_ResetPassword.aspx">
+      <publishTime>05/15/2021 14:12:31</publishTime>
+    </File>
+    <File Include="Mytour_Site.Master">
+      <publishTime>02/19/2021 16:32:14</publishTime>
+    </File>
+    <File Include="Operations/acc_evt_summary.aspx">
+      <publishTime>05/19/2021 19:21:14</publishTime>
+    </File>
+    <File Include="Operations/acc_invpmt_summary.aspx">
+      <publishTime>05/19/2021 19:20:01</publishTime>
+    </File>
+    <File Include="Operations/billing_grp.aspx">
+      <publishTime>08/26/2021 12:03:29</publishTime>
+    </File>
+    <File Include="Operations/billing_ind.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Operations/contract.aspx">
+      <publishTime>08/06/2021 16:10:12</publishTime>
+    </File>
+    <File Include="Operations/cost_grp.aspx">
+      <publishTime>08/26/2021 13:24:50</publishTime>
+    </File>
+    <File Include="Operations/cost_ind.aspx">
+      <publishTime>08/26/2021 13:10:45</publishTime>
+    </File>
+    <File Include="Operations/ops.aspx">
+      <publishTime>08/06/2021 13:41:38</publishTime>
+    </File>
+    <File Include="Operations/pax.aspx">
+      <publishTime>09/08/2021 15:45:29</publishTime>
+    </File>
+    <File Include="Operations/tour_details.aspx">
+      <publishTime>08/06/2021 15:40:08</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/11/2021 15:44:11</publishTime>
+    </File>
+    <File Include="ResetPassword.aspx">
+      <publishTime>05/15/2021 14:12:05</publishTime>
+    </File>
+    <File Include="Sales/lst_gen.aspx">
+      <publishTime>05/10/2021 15:30:24</publishTime>
+    </File>
+    <File Include="Sales/rev_lookup.aspx">
+      <publishTime>06/26/2021 12:05:29</publishTime>
+    </File>
+    <File Include="Sales/rpt_sales_prod.aspx">
+      <publishTime>10/09/2020 16:56:20</publishTime>
+    </File>
+    <File Include="Sales/sales.aspx">
+      <publishTime>06/30/2021 12:37:43</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.15.0-build58334.js">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/ai.0.15.0-build58334.min.js">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/autoNumeric-1.9.21.js">
+      <publishTime>05/13/2021 18:09:20</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/CustomJS/jquery.mask.min.js">
+      <publishTime>01/13/2021 18:35:08</publishTime>
+    </File>
+    <File Include="Scripts/CustomJS/Utility.js">
+      <publishTime>10/12/2020 14:04:52</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>10/12/2020 14:04:55</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>10/12/2020 14:04:53</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>05/13/2021 18:09:20</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>06/28/2021 12:43:48</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>10/12/2020 14:04:56</publishTime>
+    </File>
+    <File Include="TestPage.aspx">
+      <publishTime>02/18/2021 17:15:58</publishTime>
+    </File>
+    <File Include="Unsubscribe_Endpoint.aspx">
+      <publishTime>02/17/2021 13:05:58</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>10/12/2020 14:04:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/11/2021 17:08:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

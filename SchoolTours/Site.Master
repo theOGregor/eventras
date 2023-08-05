@@ -1,0 +1,355 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SchoolTours.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> </title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link href="Content/style.css?ver=1.1" rel="stylesheet" />
+    <script src="../Scripts/CustomJS/Utility.js"></script>
+    <style>
+
+        div#spinner {
+            display: none;
+            position: fixed;
+            top: 0%;
+            left: 0%;
+            bottom: 0px;
+            width: 100%;
+            height: 100%;
+            background-color: #000;
+            z-index: 1001;
+            opacity: 0.4;
+            /*display: none;
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            background: url(spinner.gif) no-repeat center #fff;
+            text-align: center;
+            padding: 10px;
+            font: normal 16px Tahoma, Geneva, sans-serif;
+            border: 1px solid #666;
+            margin-left: -50px;
+            margin-top: -50px;
+            z-index: 2;
+            overflow: auto;*/
+        }
+
+        #DivLoader {
+            /* display: block; */
+            position: absolute;
+            z-index: 10000000;
+            left: 0;
+            right: 0;
+            top: 50%;
+            text-align: center;
+        }
+    </style>
+</head>
+<body data-gr-c-s-loaded="true">
+    <div class="d-flex flex-column flex-md-row align-items-center p-2 px-md-4 mb-0 bg-blue border-bottom shadow-sm">
+        <a class="navbar-brand d-none d-lg-block mr-md-auto p-0" href="#" onclick="javascript:redirectTodashboard();">
+            <%--<img src="Content/images/img_min_logo.png" alt="mimizer" width="170">--%>
+            <div id="div_clock" runat="server">
+                <asp:Image ID="img_clock" runat="server" ImageUrl="Content/images/img_min_logo.png" alt="mimizer" Width="230" />
+            </div>
+            <div id="div_clock_only" class="d-flex d-lg-flex mr-md-auto align-items-center" runat="server" visible="false">
+                <asp:Image ID="img_clok_only" runat="server" ImageUrl="Content/images/clock.png" alt="mimizer" Width="60" />
+                <h3 class="mb-0 ml-3 text-white text-uppercase">
+                    <asp:Label ID="lbl_page_name" runat="server"></asp:Label></h3>
+            </div>
+        </a>
+        <nav class="my-2 my-md-0 mr-md-3">
+            <a class="p-2" href="#" onclick="javascript:MenuRedirect('Sales','sales');">Sales Central</a>
+            <a class="p-2" href="#" onclick="javascript:MenuRedirect('Operations','ops');">Ops Central</a>
+        </nav>
+        <a class="nav-link text-center" href="javascript:void(0);" data-toggle="dropdown">
+            <asp:Image ID="img_user_profile" runat="server" ImageUrl="Content/images/icon_person.png" alt="person" Width="20" />
+            <%--<img src="../Content/images/icon_person.png" alt="person" width="20">--%>
+            <span class="m-l-5 font-medium d-none d-sm-block text-white">Hello
+                <asp:Label ID="lbl_given_nm" runat="server" Text="" onclick="logout"></asp:Label>
+            </span>
+        </a>
+        <div class="dropdown-menu dropdown-menu-right bg-primary user-profile-dropdown">
+            <div>
+                <a class="dropdown-item  text-white" href="#" onclick="javascript:MenuRedirectpage('app_profile');">
+                    <i class="ti-user m-r-5 m-l-5"></i>My Profile</a>
+                <a class="dropdown-item text-white" href="#" onclick="javascript:MenuRedirectpage('login');">
+                    <i class="ti-user m-r-5 m-l-5"></i>Logout</a>
+            </div>
+        </div>
+    </div>
+    <form runat="server">
+        <%--defaultbutton="btn_enterKey"--%>
+        <%-- <asp:Button ID="btn_enterKey" runat="server" OnClick="btn_enterKey_Click" Text="Submit" style="display:none;" />--%>
+        <div class="container-fluid">
+            <div class="row mx-0" id="div_menu_section" runat="server">
+                <div class="w-100">
+                    <div class="div_world_clock_widget h-100 d-flex align-items-center justify-content-end">
+                        <nav role="navigation" class="custom-dropdown">
+                            <ul>
+                                <li>
+                                    <a href="javascript:void(0);">Sales</a>
+                                    <ul class="dropdown">
+                                        <li><a href="#" onclick="javascript:MenuRedirect('Sales','sales');">Sales Central</a></li>
+                                        <li><a href="#" onclick="javascript:MenuRedirect('Sales','lst_gen');">List Generator</a></li>
+                                        <li><a href="#" onclick="javascript:MenuRedirect('Sales','rev_lookup');">Reverse Lookup</a></li>
+                                        <li><a href="#" onclick="javascript:MenuRedirect('Sales','rpt_sales_prod');">Productivity Report</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0);">Operations</a>
+                                    <ul class="dropdown">
+                                        <li><a href="#" onclick="javascript:MenuRedirect('Operations','ops');">Ops Central</a></li>
+                                        <li><a href="javascript:void(0);">Package Builder</a></li>
+                                        <li><a href="javascript:void(0);">Contract Builder</a></li>
+                                        <li><a href="#" onclick="javascript:MenuRedirect('Operations','acc_evt_summary');">Event Summarry</a></li>
+                                        <li><a href="javascript:void(0);">Itinerary Builder</a></li>
+                                        <li><a href="#" onclick="javascript:MenuRedirect('Operations','acc_invpmt_summary');">Invoice / Payment Summary</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0);">Accounting</a>
+                                    <ul class="dropdown">
+                                        <li><a href="javascript:void(0);">Costs</a></li>
+                                        <li><a href="javascript:void(0);">Invoices</a></li>
+                                        <li><a href="javascript:void(0);">Payments</a></li>
+                                        <li><a href="javascript:void(0);">Budget Viewer</a></li>
+                                        <li><a href="#" onclick="javascript:MenuRedirect('Accounting','pmt_finder');">Payment Finder</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <section class="footer">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="bg-blue p-2 d-flex justify-content-between div_footer align-items-center" id="div_footer_applicationsetting" runat="server">
+                        <div id="div_applicationsetting_panel" runat="server">
+                            <a href="#" onclick="javascript:MenuRedirect('ApplicationsSettings','app_emp_div');" class="text-uppercase text-white font-weight-bold ml-3">
+                                <%--<img src="Content/images/icon_settings.png" alt="" width="30">--%>
+                                <asp:Image ID="img_footer" runat="server" ImageUrl="Content/images/icon_settings.png" alt="" Width="30" />
+                                Applications Settings
+                            </a>
+                        </div>
+                        <div class="bg-blue d-flex align-items-center ml-auto">
+                            <div class="div_world_clock_widget px-1 text-center" id="div_Eastern" onclick="javascript:funwidget('Eastern');">
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Eastern_Hours"></div>
+                                </a>
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Eastern_Min"></div>
+                                </a>
+                                <span class="d-block">Eastern</span>
+                            </div>
+                            <div class="div_world_clock_widget px-1 text-center" id="div_Central" onclick="javascript:funwidget('Central');">
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Central_Hours"></div>
+                                </a>
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Central_Min"></div>
+                                </a>
+                                <span class="d-block">Central</span>
+                            </div>
+                            <div class="div_world_clock_widget px-1 text-center" id="div_Mountain" onclick="javascript:funwidget('Mountain');">
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Mountain_Hours"></div>
+                                </a>
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Mountain_Min"></div>
+                                </a>
+                                <span class="d-block">Mountain</span>
+                            </div>
+                            <div class="div_world_clock_widget px-1 text-center" id="div_Arizona" onclick="javascript:funwidget('Arizona');">
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Arizona_Hours"></div>
+                                </a>
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Arizona_Min"></div>
+                                </a>
+                                <span class="d-block">Arizona</span>
+                            </div>
+                            <div class="div_world_clock_widget px-1 text-center" id="div_Pacific" onclick="javascript:funwidget('Pacific');">
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Pacific_Hours"></div>
+                                </a>
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Pacific_Min"></div>
+                                </a>
+                                <span class="d-block">Pacific</span>
+                            </div>
+                            <div class="div_world_clock_widget px-1 text-center" id="div_Alaska" onclick="javascript:funwidget('Alaska');">
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Alaska_Hours"></div>
+                                </a>
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Alaska_Min"></div>
+                                </a>
+                                <span class="d-block">Alaska</span>
+                            </div>
+                            <div class="div_world_clock_widget px-1 text-center" id="div_Hawai" onclick="javascript:funwidget('Hawai');">
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Hawai_Hours"></div>
+                                </a>
+                                <a href="javascript:void(0);">
+                                    <div id="div_world_clock_Hawai_Min"></div>
+                                </a>
+                                <span class="d-block">Hawai</span>
+                            </div>
+                        </div>
+                        <a href="javascript:void(0);" class="text-uppercase text-white font-weight-bold ml-5 mr-3">
+                            <%--<img src="Content/images/icon_bug.png" alt="" width="30">--%>
+                            <asp:Image ID="img_defect_tracking" runat="server" onclick="javascript:MenuRedirectpage('Defect');" ImageUrl="Content/images/icon_bug.png" alt="" Width="30" />
+                        </a>
+                    </div>
+                    <div class="bg-blue p-2 d-flex justify-content-between div_footer align-items-center" id="div_footer_Back" runat="server" visible="false">
+                        <%--<a href="javascript:history.go(-1);" class="text-uppercase text-white font-weight-bold ml-3">--%>
+                        <a href="#" class="text-uppercase text-white font-weight-bold ml-3">
+                            <asp:ImageButton ID="img_footer_Back" runat="server" ImageUrl="Content/images/icon_back.png" alt="" Width="30" OnClick="img_footer_Back_Click" />
+                            Back to
+                            <asp:Label ID="lbl_BackPageName" runat="server"></asp:Label>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </form>
+    <div id="spinner">
+        <div id="DivLoader">
+            <img src="/Content/images/loader.gif" style="width: 90px; height: 90px;" />
+
+        </div>
+
+    </div>
+</body>
+</html>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="../Scripts/CustomJS/jquery.mask.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<script src="https://momentjs.com/downloads/moment.js"></script>
+<script src="https://momentjs.com/downloads/moment-timezone-with-data.js"></script>
+
+<link href="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.12/summernote.css" rel="stylesheet">
+<script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.12/summernote.js"></script>
+<script type="text/javascript">
+    var spinnerVisible = false;
+    function showProgress() {
+        if (!spinnerVisible) {
+            $("div#spinner").fadeIn("fast");
+            spinnerVisible = true;
+        }
+    };
+    function hideProgress() {
+        if (spinnerVisible) {
+            var spinner = $("div#spinner");
+            spinner.stop();
+            spinner.fadeOut("fast");
+            spinnerVisible = false;
+        }
+    };
+</script>
+<script type="text/javascript">
+    $(function () {
+        $('.form-control').focus(function () {
+            $(this).addClass("focus");
+        });
+
+        $('.form-control').blur(function () {
+            $(this).removeClass("focus");
+        });
+    });
+    <%--function EnterEvent(e) {
+        if (e.keyCode == 13) {
+            __doPostBack('<%=btn_enterKey.UniqueID%>', "");
+        }
+    }--%>
+</script>
+
+<script type="text/javascript">
+    if (localStorage.widget != "") {
+        $('.div_world_clock_widget').removeClass('widgetActiveZone');
+        $('#div_' + localStorage.widget).addClass('widgetActiveZone');
+    }
+    $(function () {
+
+        setInterval(function () {
+            //debugger;
+
+            var Eastern_HH = (moment.tz("America/New_York").format('hh')); // EST
+            var Eastern_MM = (moment.tz("America/New_York").format('mm'));
+            var Central_HH = (moment.tz("America/Winnipeg").format('hh')); // CST
+            var Central_MM = (moment.tz("America/Winnipeg").format('mm'));
+            var Mountain_HH = (moment.tz("America/Denver").format('hh')); ///MST
+            var Mountain_MM = (moment.tz("America/Denver").format('mm'));
+            var Arizona_HH = (moment.tz("America/Phoenix").format('hh')); //MST
+            var Arizona_MM = (moment.tz("America/Phoenix").format('mm'));
+            var Pacific_HH = (moment.tz("America/Los_Angeles").format('hh')); // PST
+            var Pacific_MM = (moment.tz("America/Los_Angeles").format('mm'));
+            var Alaska_HH = (moment.tz("America/Anchorage").format('hh')); //AKST
+            var Alaska_MM = (moment.tz("America/Anchorage").format('mm'));
+            var Hawai_HH = (moment.tz("Pacific/Honolulu").format('hh')); // HST
+            var Hawai_MM = (moment.tz("Pacific/Honolulu").format('mm'));
+
+            $('#div_world_clock_Eastern_Hours').text(Eastern_HH);
+            $('#div_world_clock_Eastern_Min').text(Eastern_MM);
+
+            $('#div_world_clock_Central_Hours').text(Central_HH);
+            $('#div_world_clock_Central_Min').text(Central_MM);
+
+            $('#div_world_clock_Mountain_Hours').text(Mountain_HH);
+            $('#div_world_clock_Mountain_Min').text(Mountain_MM);
+
+            $('#div_world_clock_Arizona_Hours').text(Arizona_HH);
+            $('#div_world_clock_Arizona_Min').text(Arizona_MM);
+
+            $('#div_world_clock_Pacific_Hours').text(Pacific_HH);
+            $('#div_world_clock_Pacific_Min').text(Pacific_MM);
+
+            $('#div_world_clock_Alaska_Hours').text(Alaska_HH);
+            $('#div_world_clock_Alaska_Min').text(Alaska_MM);
+
+            $('#div_world_clock_Hawai_Hours').text(Hawai_HH);
+            $('#div_world_clock_Hawai_Min').text(Hawai_MM);
+
+        }, 100);
+
+    });
+
+    function funwidget(Value) {
+        localStorage.widget = Value;
+        $('.div_world_clock_widget').removeClass('widgetActiveZone');
+        $('#div_' + Value).addClass('widgetActiveZone');
+    }
+</script>
+<script>
+    $(document).ready(function () {
+        var name = 'Welcome ' + ' <%= Session["emp_id"] %>'  
+        console.log(name);
+        $('.summernote').summernote({
+            height: 230,
+            focus: true
+        });
+
+    });
+
+</script>
